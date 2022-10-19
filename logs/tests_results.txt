@@ -1,0 +1,8 @@
+test_format_number (__main__.TestExercice) ... ok
+test_get_bill (__main__.TestExercice) ... ok
+test_get_triangle (__main__.TestExercice) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.000s
+
+OK
